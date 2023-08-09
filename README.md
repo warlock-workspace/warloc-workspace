@@ -1,41 +1,35 @@
-# warloc-workspace# Welcome to My GitHub Repository!
+<h1 align="center">Hi 👋, I'm Bhavesh Patil</h1>
+<h3 align="center">I am passionate Software Developer</h3>
 
-![Repository Banner](link-to-your-banner-image)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=warlock-workspace&label=Profile%20views&color=0e75b6&style=flat" alt="warlock-workspace" /> </p>
 
-Hey there! 👋 Thank you for checking out my GitHub repository. I'm a recent graduate with a passion for software development, and this is where I showcase my projects and learning journey in the world of Python, JavaScript, HTML, CSS, and Pandas. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warlock-workspace" alt="warlock-workspace" /></a> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I'm a dedicated and enthusiastic software developer who is eager to learn and grow in the ever-evolving field of technology. I have a strong foundation in Python and its libraries like Pandas for data manipulation, and I love building dynamic and user-friendly web applications using HTML, CSS, and JavaScript.
+- 🔭 I’m currently working on **Python project wit javascript**
 
-## What You'll Find Here
+- 🌱 I’m currently learning **Python,Javascript, Flask , DJango , Data Science**
 
-This repository is a collection of projects, code snippets, and resources that reflect my journey as a software developer. From small Python scripts to interactive web applications, you'll find a variety of projects that demonstrate my skills and the technologies I'm working with.
+- 👯 I’m looking to collaborate on **Data science and machine learning**
 
-## Repository Structure
+- 🤝 I’m looking for help with **GEOSPATIAL TECHNOLOGY**
 
-- **/projects**: This directory contains some of my notable projects. Each project is in its own folder, complete with a detailed README explaining its purpose, features, and how to run it.
+- 💬 Ask me about **Python, Javascript**
 
-- **/code-snippets**: In this section, you'll find useful code snippets related to Python, JavaScript, HTML, CSS, and Pandas. These snippets highlight specific concepts, techniques, or solutions that I found interesting and want to share.
+- 📫 How to reach me **bhavesh.patil.ahd@gmail.com**
 
-- **/learning-resources**: I've compiled a list of resources that have been immensely helpful in my learning journey. Whether you're just starting or looking to advance your skills, you might find these resources useful too.
+- 📄 Know about my experiences [https://www.linkedin.com/in/bhavesh-patil-293b051b8/](https://www.linkedin.com/in/bhavesh-patil-293b051b8/)
 
-## Getting in Touch
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I'm always excited to connect with fellow developers, collaborate on projects, or just chat about tech! Feel free to reach out to me through the following channels:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlock-workspace&show_icons=true&locale=en&layout=compact" alt="warlock-workspace" /></p>
 
-## Feedback and Contributions
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warlock-workspace&show_icons=true&locale=en" alt="warlock-workspace" /></p>
 
-I'm open to feedback and suggestions! If you find a bug in any of my projects, or if you have ideas to improve them, please don't hesitate to open an issue or submit a pull request. Let's learn and grow together!
-
-## Show Your Support
-
-If you find my projects helpful or inspiring, consider giving them a ⭐️. It means a lot to me and keeps me motivated to continue sharing my work with the community.
-
-Thank you for visiting my repository, and I hope you find something valuable here! Happy coding! 🚀
-
-*Note: Feel free to customize this README to best suit your personality, style, and the specific projects you have in your repository. Make it your own!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warlock-workspace&" alt="warlock-workspace" /></p>
